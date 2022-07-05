@@ -1,6 +1,6 @@
 {
   "name": "typedoc-plugin-google-ads",
-  "version": "1.1.0",
+  "version": "1.0.4",
   "private": true,
   "author": "Matteo Bruni",
   "license": "MIT",
@@ -34,7 +34,7 @@
     "eslint-config-prettier": "^8.5.0",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
-    "typedoc": "^0.23.5"
+    "typedoc": "^0.23.s5"
   },
   "dependencies": {
     "typescript": "4.7.4"
